@@ -1,4 +1,4 @@
-# Random Quote Generator App
+# Random Quote Generator App     new test
 
 A simple React Native app built with Expo that displays random quotes.
 
